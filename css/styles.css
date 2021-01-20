@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Fraunces';
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* ------------------------------- */
+
+.one-column {
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
