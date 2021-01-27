@@ -3,6 +3,12 @@
     font-family: 'Fraunces';
 }
 
+header {
+    background-image: url("/img/header.jpg");
+    font-size: 50px;
+    text-align: center;
+}
+
 body {
     margin: 0;
 }
