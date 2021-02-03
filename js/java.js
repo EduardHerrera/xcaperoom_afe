@@ -1,5 +1,5 @@
 function val_1() {
-    var a = document.getElementById('val-1').value
+    var a = document.getElementById('val_1').value
     if (a == '13112211') {
         return true
     } else {
